@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LiantsoaK
+- 👋 Hi, I’m @LiantsoaK 'nd I'm new here with GitHub 😅
 - 👀 I’m interested in Machine Learning and Deep learning 
 - 🌱 I’m currently learning Mathematics 
 <!---
